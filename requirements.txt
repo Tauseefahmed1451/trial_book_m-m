@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0.36
+psycopg[binary]
+alembic
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+httpx
+loguru
+openpyxl
+python-docx
+streamlit
+python-multipart
+requests
+dotenv

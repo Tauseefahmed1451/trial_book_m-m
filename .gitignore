@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project runtime artifacts
+artifacts/
+test_smoke.db
+sample_input.xlsx
+tests/manual_google_probe.py
+book_generation_system.egg-info/
